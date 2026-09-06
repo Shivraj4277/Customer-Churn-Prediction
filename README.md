@@ -148,7 +148,44 @@ Customer churn prediction helps organizations:
 * Interactive Dashboard using Power BI or Streamlit
 
 ---
+## Model Performance
 
+To evaluate the effectiveness of the churn prediction models, multiple classification metrics were used, including Accuracy, Precision, Recall, F1-Score, and ROC-AUC Score.
+
+| Model               | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+| ------------------- | -------- | --------- | ------ | -------- | ------- |
+| Logistic Regression | 0.80     | 0.67      | 0.55   | 0.60     | 0.84    |
+| Random Forest       | 0.82     | 0.70      | 0.59   | 0.64     | 0.86    |
+
+### Performance Summary
+
+* Random Forest achieved the highest overall performance with **82% Accuracy** and **0.86 ROC-AUC Score**.
+* Logistic Regression provided strong baseline results with **80% Accuracy** and **0.84 ROC-AUC Score**.
+* Random Forest demonstrated better predictive capability across Precision, Recall, and F1-Score.
+* Based on the evaluation metrics, Random Forest was selected as the best-performing model for customer churn prediction.
+
+### Model Evaluation Techniques
+
+The following evaluation methods were used:
+
+* Accuracy Score
+* Precision Score
+* Recall Score
+* F1 Score
+* ROC-AUC Score
+* Classification Report
+* Confusion Matrix
+* Feature Importance Analysis
+---
+## Customer Churn Prediction using Machine Learning
+
+![Customer Churn Dashboard](images/project_dashboard.png)
+
+## Project Overview
+
+This project predicts customer churn using Machine Learning techniques. The workflow includes Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Logistic Regression, Random Forest, Model Evaluation, and Feature Importance Analysis.
+
+---
 ## Author
 
 **Shivraj Patil**
