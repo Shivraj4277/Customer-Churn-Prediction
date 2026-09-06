@@ -151,7 +151,7 @@ Customer churn prediction helps organizations:
 
 ## Author
 
-**Shivra Patil**
+**Shivraj Patil**
 
 Aspiring Data Scientist | Machine Learning Enthusiast
 
