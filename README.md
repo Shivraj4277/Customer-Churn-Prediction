@@ -1,5 +1,9 @@
 # Customer Churn Prediction using Machine Learning
+---
 
+![Customer Churn Dashboard](images/project_dashboard.png)
+
+---
 ## Project Overview
 
 This project focuses on predicting customer churn for a telecommunications company using Machine Learning techniques. The workflow covers the complete Data Science lifecycle, including data cleaning, preprocessing, exploratory data analysis (EDA), visualization, feature engineering, model building, evaluation, and feature importance analysis.
@@ -176,14 +180,7 @@ The following evaluation methods were used:
 * Classification Report
 * Confusion Matrix
 * Feature Importance Analysis
----
-## Customer Churn Prediction using Machine Learning
 
-![Customer Churn Dashboard](images/project_dashboard.png)
-
-## Project Overview
-
-This project predicts customer churn using Machine Learning techniques. The workflow includes Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Logistic Regression, Random Forest, Model Evaluation, and Feature Importance Analysis.
 
 ---
 ## Author
